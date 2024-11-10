@@ -1,0 +1,16 @@
+clc;
+clear all;
+close all;
+x = [1 2 3 4];
+h = [1 1 1 ];
+l = length(x);
+m = length(h);
+k = l+m-1;
+xh= [x zeros(1,k-l)];
+hh= [h zeros(1,k-m)];
+xn = fft(xh);
+hn = fft(hh);
+yn = xn.*hn;
+y = ifft(yn);
+disp("Linear Convolution using Circular Convolution :");
+disp(y);
