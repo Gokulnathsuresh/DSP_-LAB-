@@ -1,6 +1,6 @@
 Experiment No: 1
 
-##SIMULATION OF BASIC TEST SIGNALS
+##SIMULATION OF BASIC TEST SIGNALS##
 
 Aim:
 To generate continues and discrete waveforms of
