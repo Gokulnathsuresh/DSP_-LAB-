@@ -1,6 +1,6 @@
 **Experiment No:06**
 
-#**DFT AND IDFT**
+# **DFT AND IDFT**
 
 **Aim:**
 To perform DFT and IDFT with and without twiddle factor and to plot the magnitude and
