@@ -27,11 +27,9 @@ sequence, making it circular
 
 **Observation**
 
-![Output_Linear_To_Circular](https://github.com/user-attachments/assets/de1ff472-3a05-4d1e-a4e3-b5df8ae2c811)
-
-***
 
 ![Output_Circular_To_Linear](https://github.com/user-attachments/assets/f3e40a00-9c90-45f5-b7e3-2ff80558c3e3)
 
+***
 
-
+![Output_Linear_To_Circular](https://github.com/user-attachments/assets/de1ff472-3a05-4d1e-a4e3-b5df8ae2c811)
