@@ -25,7 +25,7 @@ processing algorithms.
 o Cyclic Convolution: In certain applications, such as cyclic prefix OFDM, circular
 convolution is used to simplify the implementation of linear convolution.
 ***
-**Observation**
+**Observation**<br>
 
 ![Screenshot 2024-11-10 213851](https://github.com/user-attachments/assets/1e05b64a-1b1f-46e1-a45e-28458e0714bb)
 
