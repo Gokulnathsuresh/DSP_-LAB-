@@ -1,4 +1,4 @@
-**Experiment No: 2 **
+**Experiment No: 2**
 
 # **VERIFICATION OF SAMPLING THEOREM**
 
