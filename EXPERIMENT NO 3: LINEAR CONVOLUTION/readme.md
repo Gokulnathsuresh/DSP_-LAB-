@@ -23,3 +23,16 @@ behaviour, and convolution can be used to determine the output of the system giv
 known input.
 o Image Processing: Convolution is used for tasks like edge detection, blurring, and
 sharpening images.
+
+
+***
+
+**Observation**<br>
+
+![LC_without_using_inbuilt_function](https://github.com/user-attachments/assets/8021f6f0-1f4d-4336-aebe-ec28b565e66c)
+
+***
+![_LC_using_inbuilt_function](https://github.com/user-attachments/assets/7dd67380-b0d3-475c-9373-7b17fbd2e9a6)
+
+
+
