@@ -1,26 +1,25 @@
-**Experiment No: 4** 
+**Experiment No: 3**
 
-# **Circular Convolution**
+# **Linear Convolution**
 
 **Aim:**
-To find circular convolution
-1. Using FFT and IFFT.
-2. Using Concentric Circle Method.
-3. Using Matrix Method.
+To find linear convolution of following sequences with and without built in function.
+1. x(n) = [1 2 1 1] h(n) = [1 1 1 1]
+2. x(n) = [1 2 1 2] h(n) = [3 2 1 2]
 
 **Theory:**
-Circular convolution is a mathematical operation that is like linear convolution but is
-performed in a periodic or circular manner. This is particularly useful in discrete-time signal
-processing where signals are often represented as periodic sequences.
+Linear convolution is a mathematical operation used to combine two signals to produce a
+third signal. It's a fundamental operation in signal processing and systems theory.
 
 **Mathematical Definition:**
-Given two periodic sequences x[n] and h[n], their circular convolution is defined as:
-y[n] = (x[n] ⊛ h[n]) = ∑_{k=0} ^{N-1} x[k]h[(n-k) mod N]
+Given two signals, x(t) and h(t), their linear convolution is defined as:
+y(t) = x(t) * h(t) = ∫ 𝐱(𝛕)𝐡(𝐭 − 𝛕) 𝐝𝛕
 
 **Applications:**
-o Discrete-Time Filtering: Circular convolution is used for filtering discrete-time
-signals.
-o Digital Signal Processing: It's a fundamental operation in many digital signal
-processing algorithms.
-o Cyclic Convolution: In certain applications, such as cyclic prefix OFDM, circular
-convolution is used to simplify the implementation of linear convolution.
+o Filtering: Convolution is used to filter signals, removing unwanted frequencies or
+noise.
+o System Analysis: The impulse response of a system completely characterizes its
+behaviour, and convolution can be used to determine the output of the system given a
+known input.
+o Image Processing: Convolution is used for tasks like edge detection, blurring, and
+sharpening images.
