@@ -62,8 +62,9 @@ o A signal that is zero for all negative time values and one for positive time
 values.
 o Mathematically u(t) = { 𝟏; 𝒕 ≥ 𝟎
                           𝟎; 𝒕 < 𝟎 }   
+***
 
-</br>
+
 **Observation**
 
 
