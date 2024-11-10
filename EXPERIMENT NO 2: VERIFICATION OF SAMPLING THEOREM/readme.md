@@ -26,6 +26,7 @@ o Medical imaging
 **Observation**
 
 
+
 ![Sampling_Thoerem](https://github.com/user-attachments/assets/9fa46d71-a078-4775-b812-e5c6755fcb46)
 
 
