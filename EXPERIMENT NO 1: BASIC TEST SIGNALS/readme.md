@@ -1,8 +1,8 @@
-Experiment No: 1
+**Experiment No: 1**
 
-#SIMULATION OF BASIC TEST SIGNALS
+# **SIMULATION OF BASIC TEST SIGNALS**
 
-Aim:
+**Aim**:
 To generate continues and discrete waveforms of
 1. Unit Impulse signal
 2. Unit Step signal
@@ -14,7 +14,7 @@ To generate continues and discrete waveforms of
 8. Triangular wave
 9. Exponential signal
     
-Theory:
+**Theory**:
 1. Unit Impulse Signal:
 o A signal that is zero everywhere except at one point, typically at t=0 where its value is
 1.
