@@ -1,0 +1,17 @@
+clc;
+close all;
+clear all;
+x1 = [1 2 1 2];
+x2 =[1 2 3 4];
+N=max(length(x1), length(x2));
+x1new=[x1 zeros(1, N-length(x1))];
+x2new=[x2 zeros(1, N-length(x2))];
+product_time=x1new.*x2new;
+dft_product_time=fft(product_time);
+X1=fft(x1new);
+X2=fft(x2new);
+Y=cconv (X1,X2, N);
+disp("DFT(x1(n)*x2(n)}:");
+disp(dft_product_time);
+disp("X1(k)circonvX2(k)/N:");
+disp(Y./N);
