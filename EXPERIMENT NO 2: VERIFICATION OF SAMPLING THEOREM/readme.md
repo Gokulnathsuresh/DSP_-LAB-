@@ -23,9 +23,10 @@ o Image processing
 o Medical imaging
 
 ***
-#**Observation**
+**Observation**
 
 
+![Sampling_Thoerem](https://github.com/user-attachments/assets/9fa46d71-a078-4775-b812-e5c6755fcb46)
 
 
 
